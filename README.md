@@ -59,12 +59,10 @@ The goal of this project was to build a centralized dashboard that provides acti
 
 ---
 # 📊 Dashboard Preview
-
+![Dashboard Preview](./Preview.png)
 
 ---
 
-# 📊 Dashboard Analysis
----
 ## 1️⃣ KPI Performance Analysis
 
 ### Observations
