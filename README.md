@@ -1,3 +1,7 @@
+# 📊 Dashboard Preview
+![Dashboard Preview](./Preview.png)
+
+---
 # 📊 Meta Ad Performance Analysis Dashboard
 
 > An interactive Power BI dashboard that analyzes Meta (Facebook & Instagram) advertising campaigns to help marketing teams optimize campaign performance, improve conversions, and make data-driven budgeting decisions.
@@ -56,10 +60,6 @@ The goal of this project was to build a centralized dashboard that provides acti
 | Purchase Rate | **0.61%** | Percentage of impressions resulting in purchases |
 | Total Budget | **2.5 Million** | Total advertising budget |
 | Average Campaign Budget | **50,700** | Average budget allocated per campaign |
-
----
-# 📊 Dashboard Preview
-![Dashboard Preview](./Preview.png)
 
 ---
 
